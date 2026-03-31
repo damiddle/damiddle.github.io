@@ -22,6 +22,13 @@ Description
 
 ---
 
+### 📊 EMS Inventory Management System
+Description
+
+➡️ [View Project](https://github.com/damiddle/SAT-4650-EMS-Inventory-Management)
+
+---
+
 ## 🛠 Skills
 
 **Technical**
