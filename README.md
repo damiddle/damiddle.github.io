@@ -11,7 +11,7 @@
 ### 🦠 Disease Surveillance Architecture
 Description
 
-➡️ [View Project]([link](https://github.com/damiddle/SAT-5424-Public-Health-Disease-Surveillance-Architecture))
+➡️ [View Project](https://github.com/damiddle/SAT-5424-Public-Health-Disease-Surveillance-Architecture)
 
 ---
 
@@ -38,4 +38,4 @@ Description
 
 ## 📫 Contact
 - LinkedIn: [www.linkedin.com/in/danielmiddleton688](www.linkedin.com/in/danielmiddleton688)
-- Email: [[damiddle@mtu.edu](damiddle@mtu.edu)]
+- Email: [damiddle@mtu.edu](damiddle@mtu.edu)
