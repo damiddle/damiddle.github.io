@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**damiddle/damiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Health Informatics Master's Student at Michigan Technological University  
+📍 Houghton, Michigan, USA  
+💡 Interested in Disease Surveillance, Health Data, Machine Learning, and Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Projects
+
+### 🦠 Disease Surveillance Architecture
+Description
+
+➡️ [View Project]([link](https://github.com/damiddle/SAT-5424-Public-Health-Disease-Surveillance-Architecture))
+
+---
+
+### 📊 Public Health Research Project
+Description
+
+➡️ [View Project](https://github.com/damiddle/SAT-5424-Population-Public-Health-Research-Report)
+
+---
+
+## 🛠 Skills
+
+**Technical**
+- Data Analysis
+- SQL / Excel / Python
+- Data Visualization
+
+**Public Health**
+- Disease Surveillance
+- Epidemiology Concepts
+- Research & Reporting
+
+---
+
+## 📫 Contact
+- LinkedIn: [www.linkedin.com/in/danielmiddleton688](www.linkedin.com/in/danielmiddleton688)
+- Email: [[damiddle@mtu.edu](damiddle@mtu.edu)]
