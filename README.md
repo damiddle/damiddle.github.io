@@ -61,3 +61,4 @@ The EMS Inventory Management System is a Python-based application that provides 
 ## 📫 Contact
 - LinkedIn: [www.linkedin.com/in/danielmiddleton688](www.linkedin.com/in/danielmiddleton688)
 - Email: [damiddle@mtu.edu](damiddle@mtu.edu)
+- GitHub: [damiddle](https://github.com/damiddle)
