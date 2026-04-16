@@ -1,5 +1,7 @@
 # Hi, I'm Daniel 👋
 
+![Profile Picture](Profile_Picture.jpg)
+
 🎓 Health Informatics Master's Student at Michigan Technological University  
 📍 Houghton, Michigan, USA  
 💡 Interested in Disease Surveillance, Health Data, Machine Learning, and Analytics  
