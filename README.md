@@ -4,13 +4,13 @@
 
 🎓 Health Informatics Master's Student at Michigan Technological University  
 📍 Houghton, Michigan, USA  
-💡 Interested in Disease Surveillance, Health Data, Machine Learning, and Analytics  
+💡 Aspiring Health Informatics professional focused on data-driven health solutions.
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🦠 Public Health Disease Surveillance Architecture Development
+### 📊 Public Health Disease Surveillance Architecture Development
 The system was built using virtual machines provisioned on the MTU College of Computing Cluster and included:
 - Ubuntu virtual machines.
 - OpenEMR deployment using a LAMP stack.
@@ -34,6 +34,15 @@ Emerging infectious diseases such as SARS, MERS, H1N1, and COVID-19 demonstrate 
 ➡️ [View Project](https://github.com/damiddle/SAT-5424-Machine-Learning-for-Predicting-Emerging-Infectious-Diseases)
 
 <sub>Created for SAT 5424 Population Health Informatics at Michigan Technological University, Spring 2026.</sub>
+
+---
+
+### 📊 Machine Learning for Predicting Abnormal CMP Results 
+This project applies machine learning techniques to predict abnormal Comprehensive Metabolic Panel (CMP) laboratory results using clinical data from the MIMIC-IV dataset. The goal is to identify patterns in patient data that can help anticipate abnormal lab values and support clinical decision-making. A logistic regression model and random forest model were trained and evaluated.
+
+➡️ [View Project](https://github.com/damiddle/SAT-5114-AI-in-Healthcare-Final-Project)
+
+<sub>Created for SAT 5114 Artificial Intelligence in Healthcare at Michigan Technological University, Spring 2026.</sub>
 
 ---
 
